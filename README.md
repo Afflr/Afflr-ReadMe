@@ -70,7 +70,7 @@ Afflr Website: <a href='https://afflr.io' target='_blank'>https://afflr.io</a>
 
 Afflr Youtube for Tutorials:  <a href='https://www.youtube.com/@afflr' target='_blank'> https://www.youtube.com/@afflr</a>
 
-Afflr Blog to learn more tricks and tips:   [https://www.youtube.com/@afflr](https://www.youtube.com/@afflr)
+Afflr Blog to learn more tricks and tips:  [https://afflr.io/blog/](https://afflr.io/blog/)
 
 
 
