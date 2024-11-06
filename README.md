@@ -66,11 +66,11 @@ You will find detailed steps to intsall, setup, customize and track your affilia
 ## Related
 
 
-Afflr Website: <a href='https://afflr.io/' target='_blank'>https://afflr.io/</a>
+Afflr Website: <a href='https://afflr.io' target='_blank'>https://afflr.io</a>
 
-Afflr Youtube for Tutorials: https://www.youtube.com/@afflr
+Afflr Youtube for Tutorials:  <a href='https://www.youtube.com/@afflr' target='_blank'> https://www.youtube.com/@afflr</a>
 
-Afflr Blog to learn more tricks and tips: https://afflr.io/blog/
+Afflr Blog to learn more tricks and tips:   [https://www.youtube.com/@afflr](https://www.youtube.com/@afflr)
 
 
 
