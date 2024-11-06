@@ -66,7 +66,7 @@ You will find detailed steps to intsall, setup, customize and track your affilia
 ## Related
 
 
-Afflr Website: https://afflr.io/
+Afflr Website: <a href='https://afflr.io/' target='_blank'>https://afflr.io/</a>
 
 Afflr Youtube for Tutorials: https://www.youtube.com/@afflr
 
